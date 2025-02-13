@@ -1,0 +1,7 @@
+
+
+1. header
+2. body(content section)
+3. footer
+
+underline tag: <u></u>
